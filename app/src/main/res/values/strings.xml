@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSencilla</string>
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="apellido">Escribe tu apellido:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="seleccion">Apellido</string>
+    <string name="holaNombre">Nombre:</string>
+</resources>
